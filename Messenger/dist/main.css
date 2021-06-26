@@ -1,0 +1,9 @@
+
+.messenger{height:50%;width:100%;margin:auto;display:flex;align-items:center;flex-direction:column;justify-content:center}
+
+.messages-list{display:flex;flex-direction:column;background-color:beige;height:50%;width:calc(100% - 40px);padding:20px;overflow-y:scroll}
+
+.message{background-color:lightblue;padding:5px 15px;border-radius:20px;font-size:20px;margin:5px}.message-sender{color:gray;font-size:14px}
+
+.form{display:flex;flex-direction:column}.button{align-self:flex-end}.text{padding:40px}
+
